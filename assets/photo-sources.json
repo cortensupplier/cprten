@@ -1,0 +1,211 @@
+{
+  "purpose": "Real weathering-steel / Corten material and general application photographs. These are illustrative examples and must not be presented as Shandong Dazhi supplied projects.",
+  "verified_date": "2026-09-17",
+  "license_guidance": "Provide image credits linking photographer/source and license. Indicate any crop or resizing. CC BY-SA images and derivatives retain the respective license; this does not require licensing the separate website under CC BY-SA.",
+  "assets": [
+    {
+      "file": "corten-facade-hero.jpg",
+      "role": "architecture hero candidate",
+      "description": "Orange weathering-steel flat panel facade, white geometric architectural volumes, Germany.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Corten-Stahl-Plattenfassade.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Corten-Stahl-Plattenfassade.jpg/960px-Corten-Stahl-Plattenfassade.jpg",
+      "photographer": "KDB-Fassaden (Norman60)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "date": "2012-10-18",
+      "changes": "Wikimedia thumbnail resize. Website may crop for layout; credit should state this.",
+      "width": 960,
+      "height": 640,
+      "bytes": 90987,
+      "local_files": [
+        "weathering-facade.jpg"
+      ]
+    },
+    {
+      "file": "corten-cassette-facade.jpg",
+      "role": "preferred broad architectural hero / facade application",
+      "description": "Rust-red Corten cassette facade surrounding glazing on a low office building, with lawn; Grossheubach, Germany. Laser-cut DRUCK-WERK lettering is visible.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cortenstahlfassade.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Cortenstahlfassade.jpg/1280px-Cortenstahlfassade.jpg",
+      "photographer": "Klaus-Dieter Braun, Speyer am Rhein",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "date": "2010-04-15",
+      "changes": "Wikimedia thumbnail resize.",
+      "width": 1280,
+      "height": 960,
+      "bytes": 236461,
+      "local_files": [
+        "corten-cassette-facade.jpg"
+      ]
+    },
+    {
+      "file": "corten-panel-detail.jpg",
+      "role": "visible panel fixing / cladding application",
+      "description": "Closer upward architectural view of visibly fixed 3 mm Corten steel flat-sheet cladding. Same building as the orange facade candidate.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:KDB-Fassade.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/KDB-Fassade.jpg/960px-KDB-Fassade.jpg",
+      "photographer": "kdb-fassaden.de (Norman60)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "date": "2012-10-17",
+      "changes": "Wikimedia thumbnail resize.",
+      "width": 960,
+      "height": 640,
+      "bytes": 83613,
+      "local_files": [
+        "corten-panel-detail.jpg"
+      ]
+    },
+    {
+      "file": "corten-patina.jpg",
+      "role": "weathered flat sheet / patina texture",
+      "description": "Close-up of actual Cor-Ten sheet exposed to the elements for five years. The source notes patina may form unevenly depending on metal composition.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rust-AH-2022.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rust-AH-2022.jpg/1280px-Rust-AH-2022.jpg",
+      "photographer": "AndrewHenkelman",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "date": "2022-12-27",
+      "changes": "Wikimedia thumbnail resize.",
+      "width": 1280,
+      "height": 853,
+      "bytes": 493959,
+      "local_files": [
+        "patina-detail.jpg",
+        "weathering-plate.jpg"
+      ]
+    },
+    {
+      "file": "corten-planter.jpg",
+      "role": "landscape / planter fabrication application",
+      "description": "Rectangular outdoor Corten raised garden bed after four weeks of weathering, photographed in a garden. Empty lined interior is visible in the photograph.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:4_Wochen_gealtertes_Cortenstahl_Hochbeet.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/4_Wochen_gealtertes_Cortenstahl_Hochbeet.jpg/1280px-4_Wochen_gealtertes_Cortenstahl_Hochbeet.jpg",
+      "photographer": "Redbullnrn",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "date": "2024-03-25",
+      "changes": "Wikimedia thumbnail resize.",
+      "width": 1280,
+      "height": 960,
+      "bytes": 771358,
+      "local_files": [
+        "weathering-landscape.jpg"
+      ]
+    },
+    {
+      "file": "corten-perforated-landscape.jpg",
+      "role": "cut-letter steel landscape wall",
+      "description": "Weathering-steel wall with perforated words below a living green wall in Pericon Square, Malaga, Spain. Landscape design by Natalia Munoz Aguilar. This is a cut-letter wall, not a generic perforated building facade.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vertical_garden_in_Peric%C3%B3n_Square_02.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vertical_garden_in_Peric%C3%B3n_Square_02.jpg/960px-Vertical_garden_in_Peric%C3%B3n_Square_02.jpg",
+      "photographer": "Daniel Capilla",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "date": "2016-02-27",
+      "changes": "Wikimedia thumbnail resize.",
+      "width": 960,
+      "height": 720,
+      "bytes": 199672,
+      "local_files": [
+        "weathering-sculpture.jpg"
+      ]
+    },
+    {
+      "file": "corten-bridge.jpg",
+      "role": "weathering-steel bridge application",
+      "description": "Puente Arriaca cable-stayed road bridge, Guadalajara, Spain. Dark weathering-steel pylon and deck under cloudy skies; source tags explicitly identify acero corten.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:El_puente_%E2%80%9CARRIACA%E2%80%9D_-_Viaducto_de_autov%C3%ADa_-_GUADALAJARA_(15374217775).jpg",
+      "original_source_page": "https://www.flickr.com/photos/70626035@N00/15374217775/",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/El_puente_%E2%80%9CARRIACA%E2%80%9D_-_Viaducto_de_autov%C3%ADa_-_GUADALAJARA_%2815374217775%29.jpg/960px-El_puente_%E2%80%9CARRIACA%E2%80%9D_-_Viaducto_de_autov%C3%ADa_-_GUADALAJARA_%2815374217775%29.jpg",
+      "photographer": "Jacinta Lluch Valero (jacilluch)",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "date": "2012-11-02",
+      "changes": "Wikimedia thumbnail resize.",
+      "width": 960,
+      "height": 720,
+      "bytes": 197367,
+      "local_files": [
+        "weathering-bridge.jpg"
+      ]
+    },
+    {
+      "file": "welding.jpg",
+      "source_page": "https://www.pexels.com/photo/dynamic-industrial-welding-with-sparks-29976478/",
+      "photographer": "Halis Çöllü",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "attribution_required": false,
+      "commercial_website_use_allowed": true,
+      "description": "Automated industrial welding/metalworking equipment surrounded by bright sparks in a dark workshop.",
+      "usage_note": "Good process or blog image. Machine manufacturer branding visible at right. Do not imply endorsement.",
+      "width": 1600,
+      "height": 1067,
+      "download_url": "https://images.pexels.com/photos/29976478/pexels-photo-29976478.jpeg?auto=compress&w=1600",
+      "processing": "Downloaded compressed/resized image from Pexels CDN; no generative edits.",
+      "review": "Source page identifies stock photograph; visually inspected locally. No AI image generation used.",
+      "local_files": [
+        "welding.jpg"
+      ]
+    },
+    {
+      "file": "container-port.jpg",
+      "source_page": "https://www.pexels.com/photo/aerial-view-of-shipping-containers-at-port-terminal-35627339/",
+      "photographer": "Giant Asparagus",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "attribution_required": false,
+      "commercial_website_use_allowed": true,
+      "description": "Directly overhead photo of container trailers and railway containers arranged in a freight terminal.",
+      "usage_note": "Suitable representative export/logistics image.",
+      "width": 1600,
+      "height": 1200,
+      "download_url": "https://images.pexels.com/photos/35627339/pexels-photo-35627339.jpeg?auto=compress&w=1600",
+      "processing": "Downloaded compressed/resized image from Pexels CDN; no generative edits.",
+      "review": "Source page identifies stock photograph; visually inspected locally. No AI image generation used.",
+      "local_files": [
+        "container-port.jpg"
+      ]
+    },
+    {
+      "file": "plate-waterjet.jpg",
+      "source_page": "https://www.pexels.com/photo/water-cutting-machine-pressing-metal-10664318/",
+      "photographer": "Rolled Alloys Specialty Metal Supplier",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "attribution_required": false,
+      "commercial_website_use_allowed": true,
+      "description": "Waterjet machine cutting thick, flat rectangular metal plate sections on a cutting bed.",
+      "usage_note": "Actual plate form visible. Rolled Alloys logo in background and photographer is another supplier; use as clearly credited editorial process illustration only, not company factory or company product evidence.",
+      "width": 1600,
+      "height": 2400,
+      "download_url": "https://images.pexels.com/photos/10664318/pexels-photo-10664318.jpeg?auto=compress&w=1600",
+      "processing": "Downloaded compressed/resized image from Pexels CDN; no generative edits.",
+      "review": "Source page identifies stock photograph; visually inspected locally. No AI image generation used.",
+      "local_files": [
+        "plate-waterjet.jpg"
+      ]
+    },
+    {
+      "file": "workshop.jpg",
+      "source_page": "https://www.pexels.com/photo/interior-of-an-industrial-building-16058393/",
+      "photographer": "Hoang NC",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "attribution_required": false,
+      "commercial_website_use_allowed": true,
+      "description": "Long press-brake or metalworking machine inside a workshop with orange overhead cranes and Vietnamese signage.",
+      "usage_note": "Representative industry/process photo only. Clearly not evidence of Chinese Dazhi premises.",
+      "width": 1600,
+      "height": 1067,
+      "download_url": "https://images.pexels.com/photos/16058393/pexels-photo-16058393.png?auto=compress&fm=jpg&w=1600",
+      "processing": "Downloaded compressed/resized image from Pexels CDN; no generative edits.",
+      "review": "Source page identifies stock photograph; visually inspected locally. No AI image generation used.",
+      "local_files": [
+        "workshop.jpg"
+      ]
+    }
+  ]
+}
