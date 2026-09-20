@@ -1,5 +1,5 @@
 {
-  "purpose": "Real weathering-steel / Corten material and general application photographs. These are illustrative examples and must not be presented as Shandong Dazhi supplied projects.",
+  "purpose": "Weathering steel photographs and clearly identified AI-generated material/application illustrations. Images must not be presented as verified Shandong Dazhi inventory or supplied projects.",
   "verified_date": "2026-09-17",
   "license_guidance": "Provide image credits linking photographer/source and license. Indicate any crop or resizing. CC BY-SA images and derivatives retain the respective license; this does not require licensing the separate website under CC BY-SA.",
   "assets": [
@@ -206,6 +206,81 @@
       "local_files": [
         "workshop.jpg"
       ]
+    },
+    {
+      "file": "corten-a-architectural-panels-ai.jpg",
+      "local_files": [
+        "corten-a-architectural-panels-ai.jpg"
+      ],
+      "role": "Distinct SEO page cover and linked card image",
+      "description": "AI-generated illustration of thin weathering steel facade panels",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-09-20",
+      "changes": "JPEG encoding for web delivery; display crop where needed",
+      "width": 1536,
+      "height": 1024,
+      "page": "products/corten-a.html",
+      "disclosure": "AI-generated representative illustration, not documentary evidence of material identity, inventory or supplied projects."
+    },
+    {
+      "file": "corten-b-thick-plates-ai.jpg",
+      "local_files": [
+        "corten-b-thick-plates-ai.jpg"
+      ],
+      "role": "Distinct SEO page cover and linked card image",
+      "description": "AI-generated illustration of stacked thick weathering steel plates",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-09-20",
+      "changes": "JPEG encoding for web delivery; display crop where needed",
+      "width": 1536,
+      "height": 1024,
+      "page": "products/corten-b.html",
+      "disclosure": "AI-generated representative illustration, not documentary evidence of material identity, inventory or supplied projects."
+    },
+    {
+      "file": "a588-bridge-girders-ai.jpg",
+      "local_files": [
+        "a588-bridge-girders-ai.jpg"
+      ],
+      "role": "Distinct SEO page cover and linked card image",
+      "description": "AI-generated illustration of weathering steel bridge girders",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-09-20",
+      "changes": "JPEG encoding for web delivery; display crop where needed",
+      "width": 1536,
+      "height": 1024,
+      "page": "products/astm-a588.html",
+      "disclosure": "AI-generated representative illustration, not documentary evidence of material identity, inventory or supplied projects."
+    },
+    {
+      "file": "corten-a-b-samples-ai.jpg",
+      "local_files": [
+        "corten-a-b-samples-ai.jpg"
+      ],
+      "role": "Distinct SEO page cover and linked card image",
+      "description": "AI-generated illustrative samples labelled Corten A and Corten B",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-09-20",
+      "changes": "JPEG encoding for web delivery; display crop where needed",
+      "width": 1536,
+      "height": 1024,
+      "page": "blog/corten-a-vs-corten-b.html",
+      "disclosure": "AI-generated representative illustration, not documentary evidence of material identity, inventory or supplied projects."
+    },
+    {
+      "file": "corten-price-measurement-ai.jpg",
+      "local_files": [
+        "corten-price-measurement-ai.jpg"
+      ],
+      "role": "Distinct SEO page cover and linked card image",
+      "description": "AI-generated illustration of a steel sample, caliper and calculator",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-09-20",
+      "changes": "JPEG encoding for web delivery; display crop where needed",
+      "width": 1536,
+      "height": 1024,
+      "page": "blog/corten-steel-price-guide.html",
+      "disclosure": "AI-generated representative illustration, not documentary evidence of material identity, inventory or supplied projects."
     }
   ]
 }
