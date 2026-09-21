@@ -1,4 +1,4 @@
-﻿"Product","Grade","Standard reference","Form","Buying focus","Availability"
+"Product","Grade","Standard reference","Form","Buying focus","Availability"
 "S355J2W Plate","S355J2W","EN 10025-5","Hot-rolled plate / cut blanks","Structural projects with defined impact requirements","Confirm per inquiry"
 "ASTM A588 Grade A Plate","A588 Grade A","ASTM A588/A588M","Structural plate / cut blanks","ASTM structural plate procurement","Confirm per inquiry"
 "ASTM A242 Plate","A242","ASTM A242/A242M","Structural plate / cut blanks","Projects with an explicit A242 requirement","Confirm per inquiry"
@@ -9,3 +9,6 @@
 "ASTM A606 Type 4 Sheet","A606 Type 4","ASTM A606/A606M","Sheet / strip / cut lengths","Weathering sheet, strip and cut-length inquiries","Confirm per inquiry"
 "Pre-weathered Plate","Base grade to specify","Base material standard + finish specification","Plate / sheet / panel blanks","Initial appearance and sample-based finish approval","Confirm per inquiry"
 "Perforated Weathering Panels","Base grade to specify","Base material standard + approved drawing","Perforated / profiled panel blanks","Pattern, edge and fixing detail coordination","Confirm per inquiry"
+"S235J2W Weathering Steel Plate","S235J2W","EN 10025-5","Plate / cut-to-size blanks","EN projects specifying S235J2W and agreed inspection requirements","Confirm per inquiry"
+"S355K2W Weathering Steel Plate","S355K2W","EN 10025-5","Plate / cut-to-size blanks","Structural procurement with an explicit S355K2W designation","Confirm per inquiry"
+"ASTM A709 Grade 50W Bridge Plate","A709 Grade 50W","ASTM A709/A709M","Plate / cut-to-size blanks","Bridge procurement with project-specific toughness and inspection requirements","Confirm per inquiry"
