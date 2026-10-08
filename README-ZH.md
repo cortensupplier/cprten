@@ -27,7 +27,7 @@
 
 填写联系人、公司、邮箱、材料、尺寸、数量、项目说明并勾选说明后，点击 **Review RFQ summary**。摘要显示在表单下方。
 
-- **Open email**：打开客户设备的默认邮件应用，收件人为 `cs@jiujianggrp.com`。客户检查后点击发送。
+- **Open email**：打开客户设备的默认邮件应用，收件人为 `cortensupplier@gmail.com`。客户检查后点击发送。
 - **Open WhatsApp**：打开 `+86 150 9506 3690` 的对话并带入摘要，客户检查后点击发送。
 - **Copy summary**：复制完整询价内容，可粘贴到网页邮箱或其他邮件应用。
 - **Download .txt**：请求浏览器下载询价文本，可作为附件发送。下载位置由客户浏览器决定。
@@ -43,7 +43,7 @@ RFQ 数据不保存到网站服务器或浏览器本地存储，刷新或关闭�
 统一联系配置位于 `assets/site-config.js`：
 
 - 公司：山东达智 / SHANDONG DAZHI
-- 邮箱：cs@jiujianggrp.com（按原配置保留，未提供新邮箱）
+- 邮箱：cortensupplier@gmail.com（全站统一联系邮箱）
 - 电话 / WhatsApp：+86 150 9506 3690
 - 地区：Shandong, China
 - `address`：待提供确切地址后填写。
