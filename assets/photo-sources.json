@@ -294,7 +294,9 @@
       "height": 1024,
       "changes": "JPEG encoding for web delivery; no compositing",
       "page": "blog/astm-a588-grades-a-b-k.html",
-      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises."
+      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises.",
+      "usage_status": "Superseded at user request on 2026-10-19",
+      "replaced_by": "a588-vertical-plate-rack-20261019.jpg"
     },
     {
       "file": "jis-weathering-bridge-20261019.jpg",
@@ -336,7 +338,37 @@
       "height": 1024,
       "changes": "JPEG encoding for web delivery; no compositing",
       "page": "products/jis-sma490bw.html",
-      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises."
+      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises.",
+      "usage_status": "Superseded at user request on 2026-10-19",
+      "replaced_by": "sma490bw-single-plate-20261019.jpg"
+    },
+    {
+      "file": "a588-vertical-plate-rack-20261019.jpg",
+      "local_files": [
+        "a588-vertical-plate-rack-20261019.jpg"
+      ],
+      "description": "Upright steel plates secured in a vertical storage rack",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery",
+      "page": "blog/astm-a588-grades-a-b-k.html",
+      "disclosure": "AI-generated representative illustration; not evidence of certified grade, stock, supplied project or company premises."
+    },
+    {
+      "file": "sma490bw-single-plate-20261019.jpg",
+      "local_files": [
+        "sma490bw-single-plate-20261019.jpg"
+      ],
+      "description": "Illustrative single weathering steel plate supported horizontally on timber beams",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery",
+      "page": "products/jis-sma490bw.html",
+      "disclosure": "AI-generated representative illustration; not evidence of certified grade, stock, supplied project or company premises."
     }
   ]
 }
