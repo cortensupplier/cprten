@@ -385,6 +385,76 @@
       "changes": "JPEG encoding for web delivery",
       "page": "blog/astm-a588-grades-a-b-k.html",
       "disclosure": "AI-generated representative illustration; not evidence of certified grade, stock, supplied project or company premises."
+    },
+    {
+      "file": "weathering-steel-coil-20261019.jpg",
+      "local_files": [
+        "weathering-steel-coil-20261019.jpg"
+      ],
+      "description": "A hot-rolled steel coil secured in a cradle inside a warehouse",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery",
+      "page": "products/weathering-steel-coil.html",
+      "disclosure": "AI-generated representative product illustration; not evidence of grade, inventory, supplied project or company premises."
+    },
+    {
+      "file": "weathering-steel-planter-box-20261019.jpg",
+      "local_files": [
+        "weathering-steel-planter-box-20261019.jpg"
+      ],
+      "description": "A rectangular weathering steel planter box with shrubs beside garden paving",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery",
+      "page": "products/weathering-steel-planter-box.html",
+      "disclosure": "AI-generated representative product illustration; not evidence of grade, inventory, supplied project or company premises."
+    },
+    {
+      "file": "weathering-steel-garden-edging-20261019.jpg",
+      "local_files": [
+        "weathering-steel-garden-edging-20261019.jpg"
+      ],
+      "description": "Low curved weathering steel edging separating a lawn from a gravel planting bed",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery",
+      "page": "products/weathering-steel-garden-edging.html",
+      "disclosure": "AI-generated representative product illustration; not evidence of grade, inventory, supplied project or company premises."
+    },
+    {
+      "file": "weathering-steel-sign-panels-20261019.jpg",
+      "local_files": [
+        "weathering-steel-sign-panels-20261019.jpg"
+      ],
+      "description": "A weathering steel garden sign panel with cut-through lettering and a direction arrow",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery",
+      "page": "products/weathering-steel-sign-panels.html",
+      "disclosure": "AI-generated representative product illustration; not evidence of grade, inventory, supplied project or company premises."
+    },
+    {
+      "file": "weathering-steel-bent-channels-20261019.jpg",
+      "local_files": [
+        "weathering-steel-bent-channels-20261019.jpg"
+      ],
+      "description": "Three open U-channel steel profiles with visible webs and bent flanges on a workbench",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery",
+      "page": "products/weathering-steel-bent-channels.html",
+      "disclosure": "AI-generated representative product illustration; not evidence of grade, inventory, supplied project or company premises."
     }
   ]
 }
