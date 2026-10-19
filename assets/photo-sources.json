@@ -281,6 +281,62 @@
       "height": 1024,
       "page": "blog/corten-steel-price-guide.html",
       "disclosure": "Representative representative illustration, not documentary evidence of material identity, inventory or supplied projects."
+    },
+    {
+      "file": "a588-grade-selection-20261019.jpg",
+      "local_files": [
+        "a588-grade-selection-20261019.jpg"
+      ],
+      "description": "Weathering steel sample coupons on a materials planning desk",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery; no compositing",
+      "page": "blog/astm-a588-grades-a-b-k.html",
+      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises."
+    },
+    {
+      "file": "jis-weathering-bridge-20261019.jpg",
+      "local_files": [
+        "jis-weathering-bridge-20261019.jpg"
+      ],
+      "description": "Weathering steel plate girders on an illustrative inland pedestrian bridge",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery; no compositing",
+      "page": "blog/jis-sma490bw-vs-spa-h.html",
+      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises."
+    },
+    {
+      "file": "a588-grade-k-plate-20261019.jpg",
+      "local_files": [
+        "a588-grade-k-plate-20261019.jpg"
+      ],
+      "description": "Illustrative stack of thick flat steel plates with mill scale",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery; no compositing",
+      "page": "products/astm-a588-grade-k.html",
+      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises."
+    },
+    {
+      "file": "sma490bw-plate-inspection-20261019.jpg",
+      "local_files": [
+        "sma490bw-plate-inspection-20261019.jpg"
+      ],
+      "description": "Illustrative inspection of a flat steel plate edge with a mechanical caliper",
+      "source": "OpenAI built-in image generation",
+      "generated_date": "2026-10-19",
+      "width": 1536,
+      "height": 1024,
+      "changes": "JPEG encoding for web delivery; no compositing",
+      "page": "products/jis-sma490bw.html",
+      "disclosure": "AI-generated representative illustration, not evidence of certified grade, stock, supplied project or company premises."
     }
   ]
 }
