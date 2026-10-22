@@ -456,6 +456,175 @@
       "page": "products/weathering-steel-bent-channels.html",
       "disclosure": "AI-generated representative product illustration; not evidence of grade, inventory, supplied project or company premises.",
       "usage_status": "Withdrawn from website display at user request on 2026-10-19"
+    },
+    {
+      "file": "weathering-steel-gusset-plates-20261022.jpg",
+      "local_files": [
+        "weathering-steel-gusset-plates-20261022.jpg"
+      ],
+      "description": "Weathering Steel Gusset Plates",
+      "source": "OpenAI built-in image generation",
+      "created_date": "2026-10-22",
+      "width": 1536,
+      "height": 1024,
+      "page": "products/weathering-steel-gusset-plates.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "weathering-steel-retaining-panels-20261022.jpg",
+      "local_files": [
+        "weathering-steel-retaining-panels-20261022.jpg"
+      ],
+      "description": "Weathering Steel Retaining Panels",
+      "source": "OpenAI built-in image generation",
+      "created_date": "2026-10-22",
+      "width": 1536,
+      "height": 1024,
+      "page": "products/weathering-steel-retaining-panels.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "weathering-steel-louver-blades-20261022.jpg",
+      "local_files": [
+        "weathering-steel-louver-blades-20261022.jpg"
+      ],
+      "description": "Weathering Steel Louver Blades",
+      "source": "OpenAI built-in image generation",
+      "created_date": "2026-10-22",
+      "width": 1536,
+      "height": 1024,
+      "page": "products/weathering-steel-louver-blades.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "gusset-plate-hole-layout-review-20261022.svg",
+      "local_files": [
+        "gusset-plate-hole-layout-review-20261022.svg"
+      ],
+      "description": "Weathering Steel Gusset Plates: Review the Hole Layout Before Cutting",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/gusset-plate-hole-layout-review.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "retaining-panel-project-information-20261022.svg",
+      "local_files": [
+        "retaining-panel-project-information-20261022.svg"
+      ],
+      "description": "What a Weathering Steel Retaining Panel RFQ Must Include",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/retaining-panel-project-information.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "louver-blade-angle-pitch-schedule-20261022.svg",
+      "local_files": [
+        "louver-blade-angle-pitch-schedule-20261022.svg"
+      ],
+      "description": "Louver Blade Orders: Define Angle, Pitch and Handing",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/louver-blade-angle-pitch-schedule.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "planter-drainage-liner-coordination-20261022.svg",
+      "local_files": [
+        "planter-drainage-liner-coordination-20261022.svg"
+      ],
+      "description": "Weathering Steel Planters: Coordinate the Base, Liner and Drainage",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/planter-drainage-liner-coordination.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "garden-edging-curves-piece-schedule-20261022.svg",
+      "local_files": [
+        "garden-edging-curves-piece-schedule-20261022.svg"
+      ],
+      "description": "Curved Garden Edging: Turn a Landscape Line into a Piece Schedule",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/garden-edging-curves-piece-schedule.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "sign-lettering-vector-artwork-bridges-20261022.svg",
+      "local_files": [
+        "sign-lettering-vector-artwork-bridges-20261022.svg"
+      ],
+      "description": "Cut-Letter Steel Signs: Prepare Vector Artwork That Can Be Fabricated",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/sign-lettering-vector-artwork-bridges.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "bent-channel-inside-outside-dimensions-20261022.svg",
+      "local_files": [
+        "bent-channel-inside-outside-dimensions-20261022.svg"
+      ],
+      "description": "Bent Steel Channels: Inside Dimensions, Outside Dimensions and Datums",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/bent-channel-inside-outside-dimensions.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "cut-parts-heat-traceability-register-20261022.svg",
+      "local_files": [
+        "cut-parts-heat-traceability-register-20261022.svg"
+      ],
+      "description": "After Plate Cutting: Keep Heat Identity Connected to Each Required Part",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/cut-parts-heat-traceability-register.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "plate-nesting-yield-offcut-quotation-20261022.svg",
+      "local_files": [
+        "plate-nesting-yield-offcut-quotation-20261022.svg"
+      ],
+      "description": "Plate Nesting, Yield and Offcuts: Compare Fabrication Quotes Fairly",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/plate-nesting-yield-offcut-quotation.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
+    },
+    {
+      "file": "fabricated-parts-assembled-flat-pack-scope-20261022.svg",
+      "local_files": [
+        "fabricated-parts-assembled-flat-pack-scope-20261022.svg"
+      ],
+      "description": "Assembled or Flat Pack? Define the Delivery State of Fabricated Steelwork",
+      "source": "Original authored SVG concept diagram",
+      "created_date": "2026-10-22",
+      "width": 1200,
+      "height": 720,
+      "page": "blog/fabricated-parts-assembled-flat-pack-scope.html",
+      "disclosure": "Representative illustration, not verified stock, a supplied project or an approved engineering drawing."
     }
   ]
 }

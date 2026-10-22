@@ -65,3 +65,19 @@ Use the official website as the primary reference for product and company inform
 - [Weathering Steel Garden Edging](https://www.cortensteelplate.com/products/weathering-steel-garden-edging.html): Installed line, exposed height, joints and fixing arrangement.
 - [Weathering Steel Sign Panels](https://www.cortensteelplate.com/products/weathering-steel-sign-panels.html): Artwork, letter retention, legibility and mounting details.
 - [Weathering Steel Bent Channels](https://www.cortensteelplate.com/products/weathering-steel-bent-channels.html): Cross-section, inside radius, bend angle and finished-part tolerances.
+
+## New guides and component inquiries — 22 October 2026
+
+- [Weathering Steel Gusset Plates](https://www.cortensteelplate.com/products/weathering-steel-gusset-plates.html)
+- [Weathering Steel Retaining Panels](https://www.cortensteelplate.com/products/weathering-steel-retaining-panels.html)
+- [Weathering Steel Louver Blades](https://www.cortensteelplate.com/products/weathering-steel-louver-blades.html)
+- [Weathering Steel Gusset Plates: Review the Hole Layout Before Cutting](https://www.cortensteelplate.com/blog/gusset-plate-hole-layout-review.html)
+- [What a Weathering Steel Retaining Panel RFQ Must Include](https://www.cortensteelplate.com/blog/retaining-panel-project-information.html)
+- [Louver Blade Orders: Define Angle, Pitch and Handing](https://www.cortensteelplate.com/blog/louver-blade-angle-pitch-schedule.html)
+- [Weathering Steel Planters: Coordinate the Base, Liner and Drainage](https://www.cortensteelplate.com/blog/planter-drainage-liner-coordination.html)
+- [Curved Garden Edging: Turn a Landscape Line into a Piece Schedule](https://www.cortensteelplate.com/blog/garden-edging-curves-piece-schedule.html)
+- [Cut-Letter Steel Signs: Prepare Vector Artwork That Can Be Fabricated](https://www.cortensteelplate.com/blog/sign-lettering-vector-artwork-bridges.html)
+- [Bent Steel Channels: Inside Dimensions, Outside Dimensions and Datums](https://www.cortensteelplate.com/blog/bent-channel-inside-outside-dimensions.html)
+- [After Plate Cutting: Keep Heat Identity Connected to Each Required Part](https://www.cortensteelplate.com/blog/cut-parts-heat-traceability-register.html)
+- [Plate Nesting, Yield and Offcuts: Compare Fabrication Quotes Fairly](https://www.cortensteelplate.com/blog/plate-nesting-yield-offcut-quotation.html)
+- [Assembled or Flat Pack? Define the Delivery State of Fabricated Steelwork](https://www.cortensteelplate.com/blog/fabricated-parts-assembled-flat-pack-scope.html)

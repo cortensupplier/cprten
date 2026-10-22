@@ -3,7 +3,7 @@ const form=document.getElementById('rfq-form');if(!form)return;
 const config=window.DAZHI_CONFIG;
 const lines=document.getElementById('line-items'),add=document.getElementById('add-line'),result=document.getElementById('rfq-result'),summaryEl=document.getElementById('rfq-summary'),status=document.getElementById('rfq-status');
 const template=lines.firstElementChild.cloneNode(true);let summary='';
-const fabricatedProducts=new Set(["weathering-steel-planter-box", "weathering-steel-garden-edging", "weathering-steel-sign-panels", "weathering-steel-bent-channels"]);
+const fabricatedProducts=new Set(["weathering-steel-planter-box", "weathering-steel-garden-edging", "weathering-steel-sign-panels", "weathering-steel-bent-channels", "weathering-steel-gusset-plates", "weathering-steel-retaining-panels", "weathering-steel-louver-blades"]);
 const adaptProductLine=line=>{const grade=line.querySelector('[name="grade"]').value,coil=grade==='weathering-steel-coil',fabricated=fabricatedProducts.has(grade);line.dataset.unit=coil?'coils':fabricated?'units':'pieces';['thickness','width','length'].forEach(name=>{const input=line.querySelector(`[name="${name}"]`),optional=fabricated||(coil&&name==='length');input.required=!optional;const labels={thickness:'Thickness',width:'Width',length:coil?'Strip length if specified':'Length'};input.closest('label').querySelector('span').textContent=labels[name]+' (mm)'+(optional?' — optional':' *')});line.querySelector('[name="quantity"]').closest('label').querySelector('span').textContent='Quantity ('+line.dataset.unit+') *';};
 
 const invalidate=()=>{result.hidden=true;summary='';};
