@@ -14,3 +14,7 @@
 @media(max-width:600px){.weather-hero{grid-template-columns:1fr}.weather-intro{padding:48px 23px 37px}.weather-intro h1{font-size:58px}.weather-intro .actions{flex-direction:row;gap:9px;margin-top:24px}.weather-intro .btn{padding:13px;font-size:11px}.weather-hero figure{min-height:310px}.weather-hero figcaption{font-size:8px;padding:12px 15px}.hero-detail{font-size:9px;gap:8px 14px;width:100%}.material-strip .wrap{grid-template-columns:1fr 1fr;font-size:9px;padding-block:22px;gap:16px}.material-strip a{text-align:left}.weather-intro .eyebrow{font-size:9px}.inquiry-steps h3{font-size:25px}.print-catalog{margin:15px auto}.source-links a{display:block}}
 @media print{.weather-hero{display:block;min-height:0}.weather-hero figure,.material-strip{display:none}.weather-intro{padding:20px}.weather-intro h1{font-size:36pt}.source-links{background:white}}
 
+
+/* Keep article copy close to the header, including guides without a cover. */
+body[data-page^="blog/"] .article-hero{padding-bottom:24px}
+body[data-page^="blog/"] main > .section{padding-top:26px}
