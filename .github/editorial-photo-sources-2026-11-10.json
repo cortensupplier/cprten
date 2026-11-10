@@ -1,0 +1,63 @@
+{
+  "verified_date": "2026-11-10",
+  "license": "Pexels License: free commercial use without required attribution; photos are editorial illustrations and not evidence of certified ASTM grade, company inventory, projects, or facilities.",
+  "license_page": "https://www.pexels.com/license/",
+  "photos": [
+    {
+      "path": "products/astm-a606-expanded-screen-blanks.html",
+      "photo_id": 34950818,
+      "repo_asset": "assets/images/editorial-pexels-34950818.jpg",
+      "source_page": "https://www.pexels.com/photo/34950818/",
+      "download_url": "https://images.pexels.com/photos/34950818/pexels-photo-34950818.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    },
+    {
+      "path": "products/astm-a588-girder-web-flange-blanks.html",
+      "photo_id": 11258666,
+      "repo_asset": "assets/images/editorial-pexels-11258666.jpg",
+      "source_page": "https://www.pexels.com/photo/11258666/",
+      "download_url": "https://images.pexels.com/photos/11258666/pexels-photo-11258666.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    },
+    {
+      "path": "products/astm-a606-folded-edge-trim.html",
+      "photo_id": 5327930,
+      "repo_asset": "assets/images/editorial-pexels-5327930.jpg",
+      "source_page": "https://www.pexels.com/photo/5327930/",
+      "download_url": "https://images.pexels.com/photos/5327930/pexels-photo-5327930.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    },
+    {
+      "path": "blog/astm-a588-web-flange-plate-schedule.html",
+      "photo_id": 36122954,
+      "repo_asset": "assets/images/editorial-pexels-36122954.jpg",
+      "source_page": "https://www.pexels.com/photo/36122954/",
+      "download_url": "https://images.pexels.com/photos/36122954/pexels-photo-36122954.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    },
+    {
+      "path": "blog/astm-a606-expanded-screen-mesh-rfq.html",
+      "photo_id": 6331025,
+      "repo_asset": "assets/images/editorial-pexels-6331025.jpg",
+      "source_page": "https://www.pexels.com/photo/6331025/",
+      "download_url": "https://images.pexels.com/photos/6331025/pexels-photo-6331025.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    },
+    {
+      "path": "blog/astm-a606-edge-trim-joints.html",
+      "photo_id": 21858900,
+      "repo_asset": "assets/images/editorial-pexels-21858900.jpg",
+      "source_page": "https://www.pexels.com/photo/21858900/",
+      "download_url": "https://images.pexels.com/photos/21858900/pexels-photo-21858900.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    },
+    {
+      "path": "blog/astm-a588-plate-export-packing-plan.html",
+      "photo_id": 13025947,
+      "repo_asset": "assets/images/editorial-pexels-13025947.jpg",
+      "source_page": "https://www.pexels.com/photo/13025947/",
+      "download_url": "https://images.pexels.com/photos/13025947/pexels-photo-13025947.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    },
+    {
+      "path": "blog/astm-a606-facade-panel-batch-map.html",
+      "photo_id": 5327929,
+      "repo_asset": "assets/images/editorial-pexels-5327929.jpg",
+      "source_page": "https://www.pexels.com/photo/5327929/",
+      "download_url": "https://images.pexels.com/photos/5327929/pexels-photo-5327929.jpeg?auto=compress&cs=tinysrgb&w=800&q=58"
+    }
+  ]
+}
